@@ -3,7 +3,7 @@
 const JsUser = {
     name: "Mamoon",
     age: 21,
-    "full name" : "Moon",
+    full_name : "Moon",
     location: "Noida",
     email: "MightyMoon786@google.com",
     IsLoggedIn: false,
